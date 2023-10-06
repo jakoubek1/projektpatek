@@ -1,0 +1,26 @@
+body{
+background: url(../img/m+.png);
+background-position: 50%;
+
+}
+
+
+#counter{
+  font-size: 42px;
+  text-align: center;
+  color: pink;
+}
+
+
+#cookie {
+  max-width: 130px;
+  width: 200%;
+  display: table;
+  margin: 0 auto;
+  cursor: pointer;
+
+
+}
+#p{
+ 
+}
